@@ -1,0 +1,17 @@
+{
+    "name": "admin/primeiroprojeto",
+    "description": "meu primeiro projeto composer",
+    "require": {
+        "monolog/monolog": "^3.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "Admin\\Primeiroprojeto\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Ana Caroline"
+        }
+    ]
+}
